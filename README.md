@@ -9,7 +9,10 @@
 ██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝    ██████╔╝███████╗ ╚████╔╝ 
 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  
 ```
+</div>
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Dev+%7C+Systems+Thinker+%7C+API+Architect;Java+%2B+Spring+Boot+%7C+Node.js+%2B+Express;I+don't+fix+bugs.+I+negotiate+with+them.;404%3A+Sleep+Not+Found;git+commit+-m+%22it+works%2C+don't+touch+it%22)](https://git.io/typing-svg)
 
 </div>
