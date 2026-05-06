@@ -169,17 +169,26 @@ drwxr-xr-x  projects/
 
 ### `> Achievement Matrix`
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=MOHITH2511&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mohith2511&theme=flat&no-frame=true&no-bg=true&margin-w=12&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-### `> Contribution Analytics`
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHITH2511&show_icons=true&theme=chartreuse-dark&hide_border=true)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohith2511&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=FFFFFF" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohith2511&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=FFFFFF" />
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITH2511&layout=compact&theme=chartreuse-dark&hide_border=true)
+<br/>
 
 ### `> Contribution Streak`
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MOHITH2511&theme=chartreuse-dark&hide_border=true)
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mohith2511&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideNums=FFFFFF&currStreakNum=FFB000&dates=888888" />
 
 </div>
 
@@ -210,18 +219,32 @@ drwxr-xr-x  projects/
 <div align="center">
 
 ```
-> session_end --save-state
-
-  Profile views    : Loading... (it's a lot, trust)
-  Last commit      : hopefully today
-  Current mood     : git stash && coffee --hot
-  Next goal        : write code that future-me doesn't hate
-
-  [CONNECTION CLOSED]
-  Thanks for visiting. Now go build something.
-  EOF
+╔══════════════════════════════════════════════════════════╗
+║          SESSION TERMINATION LOG — v2.0.26               ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   user@mohith2511:~$ logout                              ║
+║                                                          ║
+║   profile_views   →  see below (yes, that's you)         ║
+║   last_commit     →  git commit -m "still breathing"     ║
+║   current_mood    →  caffeine.exe running at 94% CPU     ║
+║   next_objective  →  ship code, not excuses              ║
+║   uptime          →  22 yrs, 0 critical failures         ║
+║                                                          ║
+║   [✓] changes stashed                                    ║
+║   [✓] coffee brewing                                     ║
+║   [✓] imposter syndrome suppressed (temporarily)         ║
+║   [✗] work-life balance  ............... 404 NOT FOUND  ║
+║                                                          ║
+║   Thanks for visiting. Now go build something real.      ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║   >> CONNECTION CLOSED — goodbye, human.      [ EOF ]    ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MOHITH2511&color=00FF41&style=flat-square&label=CONNECTIONS_ESTABLISHED)
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mohith2511&color=FFB000&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
 
 </div>
