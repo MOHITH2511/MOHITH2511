@@ -24,26 +24,22 @@
 
 [SYSTEM BOOT]
   Name        : MOHITH S
-  Role        : Backend Developer
-  Location    : Earth (mostly)
-  Status      : Actively turning coffee → APIs
-  Uptime      : 99.9% (blame the 0.1% on Stack Overflow being down)
+  Role        : Backend Engineer | System Builder
+  Focus       : Scalable systems, backend architecture, and intelligent platforms
+  Status      : Building APIs, workflows, and systems that scale beyond localhost
+  Uptime      : Stable (unless production decides otherwise)
 
 [CORE SKILLS]
-  → Designing systems that don't catch fire at 3AM
-  → Writing APIs so clean they make frontend devs emotional
-  → Convincing databases to cooperate through bribery (indexes)
-  → Debugging production issues while maintaining a poker face
+  → Designing layered backend architectures with clean service boundaries
+  → Building secure workflow-driven systems with role-based access control
+  → Optimizing APIs, queries, and backend flows before performance becomes a problem
+  → Developing intelligent systems using Computer Vision, AI pipelines, and automation
 
 [PERSONALITY MODULE]
-  → Believes the best UI is a well-documented REST API
-  → Has strong opinions about HTTP status codes
-  → Will absolutely judge your JSON naming conventions
-  → SELECT * FROM humor WHERE context = 'code_review';
-
-[DISCLAIMER]
-  Any resemblance to a "10x developer" is purely coincidental.
-  Side effects include: clean commits, opinionated PRs, and README obsession.
+  → Believes good backend engineering should feel invisible when done right
+  → Thinks debugging is mostly reading your own decisions from 3 days ago
+  → Has strong opinions about clean APIs, naming conventions, and scalable design
+  → git commit -m "fixed it properly this time"
 ```
 
 ---
@@ -55,48 +51,92 @@
 {
   "languages": {
     "primary"  : ["Java", "JavaScript", "SQL"],
-    "secondary": ["Python", "Bash", "TypeScript"]
+    "secondary": ["Python", "TypeScript", "Bash"]
   },
+
   "frameworks": {
-    "backend"  : ["Spring Boot", "Express.js", "Node.js"],
-    "orm"      : ["Hibernate", "Mongoose", "JPA"]
+    "backend"  : ["Spring Boot", "Node.js", "Express.js", "Next.js"],
+    "frontend" : ["React", "Tailwind CSS"],
+    "orm"      : ["JPA", "Hibernate", "Mongoose"]
   },
+
   "databases": {
-    "relational"  : ["MySQL", "PostgreSQL"],
-    "nosql"       : ["MongoDB", "Redis"],
-    "preference"  : "whichever one doesn't wake me up at night"
+    "relational" : ["MySQL", "PostgreSQL"],
+    "nosql"      : ["MongoDB", "Redis"],
+    "mindset"    : "design schemas first, regret queries later"
   },
+
   "tools": {
-    "devops"  : ["Docker", "Git", "GitHub Actions", "Linux"],
-    "testing" : ["JUnit", "Postman", "Jest"],
-    "editors" : ["VS Code", "IntelliJ IDEA"]
+    "devops"   : ["Docker", "Git", "GitHub Actions", "Azure", "Linux"],
+    "testing"  : ["Postman", "JUnit"],
+    "workflow" : ["Figma", "Maven", "Tomcat"],
+    "editors"  : ["IntelliJ IDEA", "VS Code"]
   },
+
   "architecture": [
     "REST APIs",
-    "Microservices",
-    "Event-Driven Systems",
-    "Monoliths (unironically, sometimes)"
+    "Layered Architecture",
+    "Workflow-Driven Systems",
+    "Role-Based Access Control",
+    "Concurrency-Safe Design",
+    "Scalable Backend Services"
   ],
-  "current_obsession": "Making things scale before they need to"
+
+  "specializations": {
+    "backend" : [
+      "Authentication & Authorization",
+      "Pagination & Specification Queries",
+      "JWT Security",
+      "Audit Logging",
+      "State-Driven Workflows"
+    ],
+
+    "ai_systems" : [
+      "Computer Vision Pipelines",
+      "YOLOv8",
+      "ArcFace Embeddings",
+      "FAISS Similarity Search"
+    ]
+  },
+
+  "current_focus": "Engineering scalable backend systems, workflow-driven platforms, and intelligent real-time applications"
 }
 ```
 
 <div align="center">
 
-### `> Loading tech badges...`
+### `> Loading tech stack...`
 
+#### ⚙️ Backend Engineering
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🗄️ Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🧠 AI / Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge)
+
+#### ☁️ Tools & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -122,74 +162,26 @@ drwxr-xr-x  projects/
 
 ---
 
-<!-- GITHUB STATS -->
-## `$ git log --oneline --graph --all`
+<!-- GITHUB ANALYTICS -->
+## `$ analytics --github --runtime`
 
 <div align="center">
 
-| 📊 GitHub Stats | 🔥 Streak |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=MOHITH2511&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOHITH2511&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41) |
+### `> Achievement Matrix`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITH2511&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
+![Trophy](https://github-profile-trophy.vercel.app/?username=MOHITH2511&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHITH2511&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff)
+### `> Contribution Analytics`
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHITH2511&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITH2511&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-<!-- FUN SECTION -->
-## `$ sudo cat /dev/humor`
+### `> Contribution Streak`
 
-```
-ACCESS GRANTED. Loading personality module...
-```
-
-<div align="center">
-
-### `> Daily Wisdom from the Terminal`
-
-```
-$ fortune | cowsay
- ___________________________________________
-/ A good API is like a good joke —          \
-| if you have to explain it, it's bad.      |
-|                                           |
-| Unless it's a 503. Then it just means     |
-\ the server is also having a bad day.      /
- -------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+![GitHub Streak](https://streak-stats.demolab.com?user=MOHITH2511&theme=chartreuse-dark&hide_border=true)
 
 </div>
-
-### `> Incident Report #4279`
-
-```
-[ERROR] TypeError: Cannot read properties of undefined (reading 'works_on_my_machine')
-  at production.js:∞
-  at Stack.overflow (stackoverflow.com:4xx)
-  at Brain.capacity (head:empty)
-
-[RESOLUTION] Turned it off and on again. 
-[STATUS]     Promoted to Senior Dev.
-```
-
-### `> The Five Stages of Debugging`
-
-```bash
-$ echo "Stage 1: This can't be a bug in MY code"
-$ echo "Stage 2: Fine I'll add some logs"
-$ echo "Stage 3: Wait... what does this even do"
-$ echo "Stage 4: It was a missing semicolon"
-$ echo "Stage 5: git commit -m 'fix: trust me'"
-$ echo "[DONE] Ship it."
-```
 
 ---
 
@@ -230,6 +222,6 @@ $ echo "[DONE] Ship it."
   EOF
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF41&style=flat-square&label=CONNECTIONS_ESTABLISHED)
+![Visitor Count](https://komarev.com/ghpvc/?username=MOHITH2511&color=00FF41&style=flat-square&label=CONNECTIONS_ESTABLISHED)
 
 </div>
